@@ -8,7 +8,7 @@ What's new in version 1.5.0
 	1.2 choose to hide the answers under the search results
 	1.3 choose to hide the possible answers section.
 
-Stack Search was created by [Dor Amir](amirdor@gmail.com)
+Stack Search was created by [Dor Amir](mailto:amirdor@gmail.com)
 ### Version
 1.5.0
 
